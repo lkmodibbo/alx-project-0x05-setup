@@ -1,5 +1,5 @@
 import ImageCard from "@/common/ImageCard";
-import { ImageProps } from "@/components/interfaces";
+import { ImageProps } from "@/interfaces";
 import { useState } from "react";
 
 

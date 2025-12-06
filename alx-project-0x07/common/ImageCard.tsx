@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { GeneratedImageProps } from "@/components/interfaces";
+import { GeneratedImageProps } from "@/interfaces";
 
 const ImageCard: React.FC<GeneratedImageProps> = ({ imageUrl, prompt, width, action }) => {
   return (
