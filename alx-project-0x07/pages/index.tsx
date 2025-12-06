@@ -3,7 +3,6 @@ import { ImageProps } from "@/components/interfaces";
 import { useState } from "react";
 
 
-
 const Home: React.FC = () => {
   const [prompt, setPrompt] = useState<string>("");
   const [imageUrl, setImageUrl] = useState<string>("");
