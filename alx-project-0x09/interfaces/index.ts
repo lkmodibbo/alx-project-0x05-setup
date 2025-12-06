@@ -4,6 +4,7 @@ export interface ReactComponentProps {
   children: ReactNode
 }
 
+
 export interface GeneratedImageProps {
   imageUrl: string
   prompt: string
